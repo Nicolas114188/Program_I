@@ -1,0 +1,29 @@
+D:\Oscar\UTN\ProgramacionI\2022\ExamenTUPPI25072022\TUP_PI_EF_PacientesU\bin\Debug\TUP_PI_EF_PacientesU.exe.config
+D:\Oscar\UTN\ProgramacionI\2022\ExamenTUPPI25072022\TUP_PI_EF_PacientesU\bin\Debug\TUP_PI_EF_PacientesU.exe
+D:\Oscar\UTN\ProgramacionI\2022\ExamenTUPPI25072022\TUP_PI_EF_PacientesU\bin\Debug\TUP_PI_EF_PacientesU.pdb
+D:\Oscar\UTN\ProgramacionI\2022\ExamenTUPPI25072022\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.csproj.AssemblyReference.cache
+D:\Oscar\UTN\ProgramacionI\2022\ExamenTUPPI25072022\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.frmPacientes.resources
+D:\Oscar\UTN\ProgramacionI\2022\ExamenTUPPI25072022\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionI\2022\ExamenTUPPI25072022\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionI\2022\ExamenTUPPI25072022\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionI\2022\ExamenTUPPI25072022\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.exe
+D:\Oscar\UTN\ProgramacionI\2022\ExamenTUPPI25072022\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.pdb
+C:\Users\alumno\Downloads\Nueva carpeta\TUP_PI_EF_PacientesU\bin\Debug\TUP_PI_EF_PacientesU.exe.config
+C:\Users\alumno\Downloads\Nueva carpeta\TUP_PI_EF_PacientesU\bin\Debug\TUP_PI_EF_PacientesU.exe
+C:\Users\alumno\Downloads\Nueva carpeta\TUP_PI_EF_PacientesU\bin\Debug\TUP_PI_EF_PacientesU.pdb
+C:\Users\alumno\Downloads\Nueva carpeta\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.csprojAssemblyReference.cache
+C:\Users\alumno\Downloads\Nueva carpeta\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.frmPacientes.resources
+C:\Users\alumno\Downloads\Nueva carpeta\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.Properties.Resources.resources
+C:\Users\alumno\Downloads\Nueva carpeta\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.csproj.GenerateResource.cache
+C:\Users\alumno\Downloads\Nueva carpeta\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.exe
+C:\Users\alumno\Downloads\Nueva carpeta\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.pdb
+C:\Users\Patricia\Downloads\Nico\TUP\TUP de programacion I\TUP_PI_EF_PacientesU\bin\Debug\TUP_PI_EF_PacientesU.exe.config
+C:\Users\Patricia\Downloads\Nico\TUP\TUP de programacion I\TUP_PI_EF_PacientesU\bin\Debug\TUP_PI_EF_PacientesU.exe
+C:\Users\Patricia\Downloads\Nico\TUP\TUP de programacion I\TUP_PI_EF_PacientesU\bin\Debug\TUP_PI_EF_PacientesU.pdb
+C:\Users\Patricia\Downloads\Nico\TUP\TUP de programacion I\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.csproj.AssemblyReference.cache
+C:\Users\Patricia\Downloads\Nico\TUP\TUP de programacion I\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.frmPacientes.resources
+C:\Users\Patricia\Downloads\Nico\TUP\TUP de programacion I\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.Properties.Resources.resources
+C:\Users\Patricia\Downloads\Nico\TUP\TUP de programacion I\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.csproj.GenerateResource.cache
+C:\Users\Patricia\Downloads\Nico\TUP\TUP de programacion I\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\Downloads\Nico\TUP\TUP de programacion I\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.exe
+C:\Users\Patricia\Downloads\Nico\TUP\TUP de programacion I\TUP_PI_EF_PacientesU\obj\Debug\TUP_PI_EF_PacientesU.pdb
